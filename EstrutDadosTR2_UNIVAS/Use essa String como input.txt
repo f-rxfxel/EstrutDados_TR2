@@ -1,0 +1,1 @@
+Teclas,101,1.50;Carcaça,2,19.50;PCB,1,50;Plástico,3,0.40;Tinta,1,0.20;Plástico,10,5;Alumínio,5,10;Silício,10,3;Cobre,7,3;Vidro,3,1
